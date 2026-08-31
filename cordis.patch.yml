@@ -1,0 +1,5 @@
+# dsh-plugins-manager bundle patch: register the host row that provides the
+# dsh_plugin_manage tool and the Plugin Manager settings section.
+- insert:
+    - id: plugins-manager
+      name: 'dsh-plugins-manager'
