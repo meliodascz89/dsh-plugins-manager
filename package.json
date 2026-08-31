@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugins-manager",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DeepSeek Harness plugin: a GUI + dsh_plugin_manage tool to control your custom DSH plugins — list, install, update, uninstall, enable and disable (from npm).",
   "type": "module",
   "main": "lib/index.js",
